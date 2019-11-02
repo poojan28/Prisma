@@ -1,2 +1,2 @@
 # Prisma (company website)
-![alt text](https://github.com/poojan28/Clock/blob/master/Capture.JPG)
+![alt text](https://github.com/poojan28/Prisma/blob/master/prisma.mp4)
